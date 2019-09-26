@@ -4,7 +4,7 @@ Install NPM and React CLI
 
 Install all the dependencies for the project using: 
 
-npm install
+`npm install`
 
 Once all dependencies are installed follow below steps.
 
