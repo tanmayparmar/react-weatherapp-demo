@@ -1,3 +1,13 @@
+Donwload/Clone all the files on your Local Computer
+
+Install NPM and React CLI
+
+Install all the dependencies for the project using: 
+
+npm install
+
+Once all dependencies are installed follow below steps.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
